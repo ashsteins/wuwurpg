@@ -776,7 +776,11 @@ CCTV-17农业农村,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122619
 金鹰纪实,http://hbyxmlg.picp.io:8088/tsfile/live/1020_1.m3u8
 石家庄生活,http://hbyxmlg.picp.io:8088/tsfile/live/1022_1.m3u8
 靓妆,http://hbyxmlg.picp.io:8088/tsfile/live/1023_1.m3u8
-
+潘多拉玩美频道,https://18.svi-studio.com/live/673960949860/294164781253/3.m3u8
+香蕉台,https://18.svi-studio.com/live/673960949860/294164781253/4.m3u8
+惊艳台,https://18.svi-studio.com/live/673960949860/294164781253/1.m3u8
+松视1台,https://18.svi-studio.com/live/673960949860/294164781253/5.m3u8
+松视2台,https://18.svi-studio.com/live/673960949860/294164781253/6.m3u8
 
 
 IPV6网络使用,#genre#
