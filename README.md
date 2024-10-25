@@ -9,3 +9,5 @@ https://github.moeyy.xyz/https://github.com/ashsteins/wuwurpg/blob/main/%E6%B8%A
 
 
 https://gh-proxy.com/https://raw.githubusercontent.com/ashsteins/wuwurpg/main/18x.m3u8
+
+http://aktv.top/live.m3u
