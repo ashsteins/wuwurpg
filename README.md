@@ -13,3 +13,8 @@ https://gh-proxy.com/https://raw.githubusercontent.com/ashsteins/wuwurpg/main/18
 http://aktv.top/live.m3u
 
 https://github.moeyy.xyz/https://github.com/ashsteins/wuwurpg/blob/main/video.json
+
+
+成人版：
+https://raw.bgithub.xyz/wwb521/live/refs/heads/main/video.json
+短链接：http://gg.gg/1c5sjx
